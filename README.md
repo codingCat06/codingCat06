@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🌱 I’m currently learning about Python( AI, BigData ), Kotlin, C++
+### 🔭 I'll study them and English step by step.
 
 <!--
 **codingCat06/codingCat06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
